@@ -1,0 +1,2 @@
+The file prober is the main logic file of probbing the server and finding the rate of several counters and handling of counter wraps. It's been written in python.
+The file A2check.sh is a script file written by Dr.Patrik Arlos for validating and checking the logic file (prober).
